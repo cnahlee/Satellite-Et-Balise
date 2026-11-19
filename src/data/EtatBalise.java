@@ -2,7 +2,7 @@ package data;
 
 public enum EtatBalise {
     COLLECTE,
-    REMONTE,
+    REMONTEE,
     ATTENTE,
     TRANSMISSION
 

@@ -1,6 +1,7 @@
 package data;
 
-public class Position {
+/** Immutable coordinates in metres; depth is non-negative, with the surface at zero. */
+public final class Position {
 
     private final double x;
     private final double profondeur;
